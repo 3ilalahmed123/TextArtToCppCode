@@ -1,4 +1,4 @@
-# TextArtToPythonCode
+# TextArtToCPPCode
 This simple script converts ASCII//TEXT art to a python print line so that you can print out your art in a console program.
 
 How to use:
@@ -8,7 +8,7 @@ How to use:
 4. Enjoy!
 
 
-I made this so that I save time when embedding ASCII/TEXT art into my programs. Instead of manually going through every line and adding '\'s to prevent errors and new lines, this code does it for you and gives you your art in one line.
+I made this so that I save time when embedding ASCII/TEXT art into my programs. Instead of manually going through every line and adding '\'s to prevent errors and new lines, this code does it for you and gives you your art in one line. EDIT: It's 2025 now AI can do this for you ;p
 
 ![image](https://user-images.githubusercontent.com/78381391/118833286-3dc95f80-b8b9-11eb-8ddc-71bd7306a948.png)
 
